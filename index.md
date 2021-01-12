@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Chicago
 tags: example-tag
 level: 0
-region: United States
+region: North American
 
 ---
 

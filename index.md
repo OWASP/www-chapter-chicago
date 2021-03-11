@@ -1,13 +1,3 @@
----
-
-layout: col-sidebar
-title: OWASP Chicago
-tags: example-tag
-level: 0
-region: North America
-
----
-
 ## OWASP Chicago
 Welcome to the OWASP Chicago chapter homepage. The chapter leaders are <a href="mailto:michael.allen@owasp.org">Michael Allen</a> and <a href="mailto:adam.lewis@owasp.org">Adam Lewis</a>. Follow chapter news on <a href="https://twitter.com/OWASPChicago">Twitter</a> | <a href="https://www.meetup.com/OWASP-Chicago-Chapter/">Meetup.com</a>
 

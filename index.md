@@ -1,15 +1,14 @@
 ---
 
 layout: col-sidebar
-title: OWASP London
 site_side: true
-tags: london
+tags: chicago
 level: 3
 region: Europe
 currency: gbp
-meetup-group: OWASP-London
-country: United Kingdom
-postal-code: SW1V 3QW
+meetup-group: OWASP-Chicago
+country: United States of America
+postal-code: 60661
 
 ---
 <!-- rebuild -->

@@ -11,5 +11,4 @@
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-chicago)
-* [Slides Repo](https://github.com/OWASP/www-chapter-london/tree/master/assets/slides)
 * [Legacy Website](https://wiki.owasp.org/index.php/Chicago)

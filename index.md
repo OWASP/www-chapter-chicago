@@ -1,6 +1,5 @@
 ---
 layout: col-sidebar
-title: OWASP Chicago
 site_side: true
 tags: chicago
 meetup-group: OWASP-Chicago
@@ -16,7 +15,7 @@ Speaking at OWASP Chicago Chapter Events
 
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Chicago Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via the <a href="http://tinyurl.com/OWASPChicago">Google Form</a>
 
-Next Meeting/Event(s)
+Next Meeting | Event(s)
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 

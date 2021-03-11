@@ -1,6 +1,3 @@
-<!--### Chapter Information
-* Chapter Region
-
 ### Chicago Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Local Chapter Support](https://owasp.org/donate)

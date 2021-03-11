@@ -8,8 +8,36 @@ region: North America
 
 ---
 
-## Welcome
-Welcome to the OWASP Chicago Chapter!
+## OWASP Chicago
+Welcome to the OWASP Chicago chapter homepage. The chapter leaders are <a href="mailto:michael.allen@owasp.org">Michael Allen</a> and <a href="mailto:adam.lewis@owasp.org">Adam Lewis</a>. Follow chapter news on <a href="https://twitter.com/OWASPChicago">Twitter</a> | <a href="https://www.meetup.com/OWASP-Chicago-Chapter/">Meetup.com</a>
+
+Speaking at OWASP London Chapter Events
+---------------------------------------
+
+#### Call For Speakers
+
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Chicago Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via the following Google form: http://tinyurl.com/OWASPChicago
+
+`owasplondon (at) owasp.org`
+
+Next Meeting/Event(s)
+---------------------
+{% include chapter_events.html group=page.meetup-group %}
+
+OWASP Chicago Chapter meetings are posted on our MeetUp Page:
+
+Please visit <a href="https://www.meetup.com/OWASP-Chicago-Chapter/">https://www.meetup.com/OWASP-Chicago-Chapter</a> OWASP Chicago MeetUp site for Chicago Chapter event information.
+
+Video Recordings of Past Events
+--------------------------------
+Coming soon!
+
+Updates on Social Media and Mailing List
+---------------------
+Please follow OWASP Chicago Chapter on <a href="https://twitter.com/OWASPChicago">Twiter</a> | <a href="https://www.meetup.com/OWASP-Chicago-Chapter/">MeetUp</a> | <a href="https://www.linkedin.com/groups/4049846">LinkedIn</a>
+
+
+
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 

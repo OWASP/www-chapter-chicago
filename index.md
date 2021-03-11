@@ -35,10 +35,7 @@ Coming soon!
 
 Updates on Social Media and Mailing List
 ---------------------
-Please follow OWASP Chicago Chapter on <a href="https://twitter.com/OWASPChicago">Twiter</a> | <a href="https://www.meetup.com/OWASP-Chicago-Chapter/">MeetUp</a> | <a href="https://www.linkedin.com/groups/4049846">LinkedIn</a>
-
-
-
+Please follow OWASP Chicago Chapter on <a href="https://twitter.com/OWASPChicago">Twitter</a> | <a href="https://www.meetup.com/OWASP-Chicago-Chapter/">MeetUp</a> | <a href="https://www.linkedin.com/groups/4049846">LinkedIn</a>
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 

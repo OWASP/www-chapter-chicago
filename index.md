@@ -11,14 +11,12 @@ region: North America
 ## OWASP Chicago
 Welcome to the OWASP Chicago chapter homepage. The chapter leaders are <a href="mailto:michael.allen@owasp.org">Michael Allen</a> and <a href="mailto:adam.lewis@owasp.org">Adam Lewis</a>. Follow chapter news on <a href="https://twitter.com/OWASPChicago">Twitter</a> | <a href="https://www.meetup.com/OWASP-Chicago-Chapter/">Meetup.com</a>
 
-Speaking at OWASP London Chapter Events
+Speaking at OWASP Chicago Chapter Events
 ---------------------------------------
 
 #### Call For Speakers
 
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Chicago Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via the following Google form: http://tinyurl.com/OWASPChicago
-
-`owasplondon (at) owasp.org`
 
 Next Meeting/Event(s)
 ---------------------

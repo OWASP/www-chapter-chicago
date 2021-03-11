@@ -22,7 +22,7 @@ Next Meeting/Event(s)
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
-OWASP Chicago Chapter meetings are posted on our <a href="https://www.meetup.com/OWASP-Chicago-Chapter>MeetUp Page</a>
+OWASP Chicago Chapter meetings are posted on our <a href="https://www.meetup.com/OWASP-Chicago-Chapter">MeetUp Page</a>
 
 Video Recordings of Past Events
 --------------------------------

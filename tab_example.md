@@ -1,9 +1,8 @@
-title: PastEvents
-displaytext: Past Events
-layout: null
+title: Example
+layout:  null
 tab: true
-order: 2
-tags: london
+order: 1
+tags: example-tag
 
 ## Example
 

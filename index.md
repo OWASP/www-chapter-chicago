@@ -4,7 +4,7 @@ layout: col-sidebar
 site_side: true
 tags: chicago
 level: 3
-region: Europe
+region: North America
 currency: gbp
 meetup-group: OWASP-Chicago
 country: United States of America

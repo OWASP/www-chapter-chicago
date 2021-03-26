@@ -5,7 +5,7 @@ site_side: true
 tags: chicago
 level: 3
 region: North America
-currency: gbp
+currency: USD
 meetup-group: OWASP-Chicago
 country: United States of America
 postal-code: 60661

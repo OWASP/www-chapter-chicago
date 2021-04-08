@@ -2,13 +2,14 @@
 
 layout: col-sidebar
 title: OWASP Chicago
-site_side: true
-tags: chicago
-level: 3
+#site_side: true
+#tags: chicago
+#level: 3
+level: 0
 region: North America
-currency: USD
+#currency: USD
 meetup-group: OWASP-Chicago
-country: United States of America
+country: USA
 postal-code: 60661
 
 ---

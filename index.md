@@ -1,6 +1,7 @@
 ---
 
 layout: col-sidebar
+title: OWASP Chicago
 site_side: true
 tags: chicago
 level: 3

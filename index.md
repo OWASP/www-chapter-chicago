@@ -8,7 +8,7 @@ title: OWASP Chicago
 level: 0
 region: North America
 #currency: USD
-meetup-group: OWASP-Chicago
+meetup-group: OWASP-Chicago-Chapter
 country: USA
 postal-code: 60661
 

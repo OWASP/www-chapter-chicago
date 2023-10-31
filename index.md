@@ -16,14 +16,14 @@ postal-code: 60661
 <!-- rebuild -->
 
 ## OWASP Chicago
-Welcome to the OWASP Chicago chapter homepage. The chapter leaders are <a href="mailto:michael.allen@owasp.org">Michael Allen</a> and <a href="mailto:adam.lewis@owasp.org">Adam Lewis</a>. Follow chapter news on <a href="https://twitter.com/OWASPChicago">Twitter</a> | <a href="https://www.meetup.com/OWASP-Chicago-Chapter/">Meetup.com</a>
+Welcome to the OWASP Chicago chapter homepage. 
 
 Speaking at OWASP Chicago Chapter Events
 ---------------------------------------
 
 #### Call For Speakers
 
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Chicago Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via the <a href="http://tinyurl.com/OWASPChicago">Google Form</a>
+
 
 Next Meeting | Event(s)
 ---------------------
@@ -37,10 +37,10 @@ Coming soon!
 
 Updates on Social Media and Mailing List
 ---------------------
-Please follow OWASP Chicago Chapter on <a href="https://twitter.com/OWASPChicago">Twitter</a> | <a href="https://www.meetup.com/OWASP-Chicago-Chapter/">MeetUp</a> | <a href="https://www.linkedin.com/groups/4049846">LinkedIn</a>
+
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 

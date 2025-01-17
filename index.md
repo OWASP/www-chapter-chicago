@@ -27,7 +27,7 @@ If you are interested in speaking at OWASP Chicago Chapter events, please fill o
 
 Upcoming Event(s)
 ---------------------
-<!-- {% include chapter_events.html group=page.meetup-group %} -->
+{% include chapter_events.html group=page.meetup-group %}
 <br />
 
 <b>Date & Time:</b> 2025-01-30 @ 6:30PM Central <br/>

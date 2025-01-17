@@ -10,7 +10,7 @@ region: North America
 #currency: USD
 meetup-group: OWASP-Chicago-Chapter
 country: USA
-postal-code: 60661
+postal-code: 60062
 
 ---
 <!-- rebuild -->
@@ -21,7 +21,9 @@ Welcome to the OWASP Chicago chapter homepage.
 Speaking at OWASP Chicago Chapter Events
 ---------------------------------------
 
-#### Call For Speakers
+If you are interested in speaking at OWASP Chicago Chapter events, please fill out the Google Form via the following URL, and select "Speaker for Virtual / Speaker for In-Person Event" as one of the options. 
+
+Form URL: https://docs.google.com/forms/d/e/1FAIpQLSfQwUXa-0Bviph4FcJgBcORy2N5_YZ10nutn9G3mdjaq3-gOA/viewform?usp=header
 
 
 
@@ -29,6 +31,12 @@ Next Meeting | Event(s)
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+Upcoming Events: 
+
+- Jan 30, 2025 - API Security & Craft Beer - OWASP Chicago, Chicagoland Cybersecurity Exchange, Stackhawk and Evolve Security
+- Feb 12, 2025 - SSC Security & Craft Beer - OWASP Chicago, Chicagoland Cybersecurity Exchange, Endor Labs
+
+<!--
 OWASP Chicago Chapter meetings are posted on our <a href="https://www.meetup.com/OWASP-Chicago-Chapter">MeetUp Page</a>
 
 Video Recordings of Past Events
@@ -37,7 +45,7 @@ Coming soon!
 
 Updates on Social Media and Mailing List
 ---------------------
-
+-->
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 

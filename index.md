@@ -25,11 +25,10 @@ If you are interested in speaking at OWASP Chicago Chapter events, please fill o
 
 
 
-Next Meeting | Event(s)
+Upcoming Event(s)
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
-
-Upcoming Events: 
+<!-- {% include chapter_events.html group=page.meetup-group %} -->
+<br />
 
 <b>Date & Time:</b> 2025-01-30 @ 6:30PM Central <br/>
 <b>Topic: </b> API Security & Craft Beer <br/>
@@ -43,8 +42,7 @@ Upcoming Events:
 <b>Organizers: </b> OWASP Chicago, Chicagoland Cybersecurity Exchange, Endor Labs <br/>
 <b>Registration Link: </b> <a href="https://www.meetup.com/chicagoland-cybersecurity-exchange/events/305653740"> Click Here </a> <br/>
 
-<br/><br/><br/>
-
+<br/><br/>
 
 <!--
 OWASP Chicago Chapter meetings are posted on our <a href="https://www.meetup.com/OWASP-Chicago-Chapter">MeetUp Page</a>

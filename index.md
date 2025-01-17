@@ -21,9 +21,7 @@ Welcome to the OWASP Chicago chapter homepage.
 Speaking at OWASP Chicago Chapter Events
 ---------------------------------------
 
-If you are interested in speaking at OWASP Chicago Chapter events, please fill out the Google Form via the following URL, and select "Speaker for Virtual / Speaker for In-Person Event" as one of the options. 
-
-Form URL: https://docs.google.com/forms/d/e/1FAIpQLSfQwUXa-0Bviph4FcJgBcORy2N5_YZ10nutn9G3mdjaq3-gOA/viewform?usp=header
+If you are interested in speaking at OWASP Chicago Chapter events, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQwUXa-0Bviph4FcJgBcORy2N5_YZ10nutn9G3mdjaq3-gOA/viewform?usp=header"> Google Form </a> and select "Speaker for Virtual / Speaker for In-Person Event" as one of the options. 
 
 
 
@@ -33,8 +31,18 @@ Next Meeting | Event(s)
 
 Upcoming Events: 
 
-- Jan 30, 2025 - API Security & Craft Beer - OWASP Chicago, Chicagoland Cybersecurity Exchange, Stackhawk and Evolve Security
-- Feb 12, 2025 - SSC Security & Craft Beer - OWASP Chicago, Chicagoland Cybersecurity Exchange, Endor Labs
+<b>Date & Time:</b> 2025-01-30 @ 6:30PM Central
+<b>Topic: </b> API Security & Craft Beer
+<b>Location: </b> Hangar 2 by Tangled Roots Brewing Company // Glenview, IL
+<b>Organizers: </b> OWASP Chicago, Chicagoland Cybersecurity Exchange, Stackhawk, Evolve Security
+<b>Registration Link: </b> <a href="https://www.meetup.com/chicagoland-cybersecurity-exchange/events/305024959"> Click Here </a>
+
+<b>Date & Time:</b> 2025-02-12 @ 6:30PM Central
+<b>Topic: </b> API Security & Craft Beer
+<b>Location: </b> Crust Brewing Company // Rosemont, IL
+<b>Organizers: </b> OWASP Chicago, Chicagoland Cybersecurity Exchange, Endor Labs
+<b>Registration Link: </b> <a href="https://www.meetup.com/chicagoland-cybersecurity-exchange/events/305653740"> Click Here </a>
+
 
 <!--
 OWASP Chicago Chapter meetings are posted on our <a href="https://www.meetup.com/OWASP-Chicago-Chapter">MeetUp Page</a>

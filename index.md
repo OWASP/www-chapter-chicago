@@ -31,17 +31,19 @@ Next Meeting | Event(s)
 
 Upcoming Events: 
 
-<b>Date & Time:</b> 2025-01-30 @ 6:30PM Central
-<b>Topic: </b> API Security & Craft Beer
-<b>Location: </b> Hangar 2 by Tangled Roots Brewing Company // Glenview, IL
-<b>Organizers: </b> OWASP Chicago, Chicagoland Cybersecurity Exchange, Stackhawk, Evolve Security
-<b>Registration Link: </b> <a href="https://www.meetup.com/chicagoland-cybersecurity-exchange/events/305024959"> Click Here </a>
+<b>Date & Time:</b> 2025-01-30 @ 6:30PM Central <br/>
+<b>Topic: </b> API Security & Craft Beer <br/>
+<b>Location: </b> Hangar 2 by Tangled Roots Brewing Company // Glenview, IL <br/>
+<b>Organizers: </b> OWASP Chicago, Chicagoland Cybersecurity Exchange, Stackhawk, Evolve Security <br/>
+<b>Registration Link: </b> <a href="https://www.meetup.com/chicagoland-cybersecurity-exchange/events/305024959"> Click Here </a> <br/>
+<br/><br/>
+<b>Date & Time:</b> 2025-02-12 @ 6:30PM Central <br/>
+<b>Topic: </b> API Security & Craft Beer <br/>
+<b>Location: </b> Crust Brewing Company // Rosemont, IL <br/>
+<b>Organizers: </b> OWASP Chicago, Chicagoland Cybersecurity Exchange, Endor Labs <br/>
+<b>Registration Link: </b> <a href="https://www.meetup.com/chicagoland-cybersecurity-exchange/events/305653740"> Click Here </a> <br/>
 
-<b>Date & Time:</b> 2025-02-12 @ 6:30PM Central
-<b>Topic: </b> API Security & Craft Beer
-<b>Location: </b> Crust Brewing Company // Rosemont, IL
-<b>Organizers: </b> OWASP Chicago, Chicagoland Cybersecurity Exchange, Endor Labs
-<b>Registration Link: </b> <a href="https://www.meetup.com/chicagoland-cybersecurity-exchange/events/305653740"> Click Here </a>
+<br/><br/><br/>
 
 
 <!--

@@ -37,7 +37,7 @@ Upcoming Event(s)
 <b>Registration Link: </b> <a href="https://www.meetup.com/chicagoland-cybersecurity-exchange/events/305024959"> Click Here </a> <br/>
 <br/><br/>
 <b>Date & Time:</b> 2025-02-12 @ 6:30PM Central <br/>
-<b>Topic: </b> API Security & Craft Beer <br/>
+<b>Topic: </b> Software Supply Chain Security & Craft Beer <br/>
 <b>Location: </b> Crust Brewing Company // Rosemont, IL <br/>
 <b>Organizers: </b> OWASP Chicago, Chicagoland Cybersecurity Exchange, Endor Labs <br/>
 <b>Registration Link: </b> <a href="https://www.meetup.com/chicagoland-cybersecurity-exchange/events/305653740"> Click Here </a> <br/>

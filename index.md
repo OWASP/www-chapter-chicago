@@ -24,8 +24,20 @@ Speaking at OWASP Chicago Chapter Events
 If you are interested in speaking at OWASP Chicago Chapter events, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQwUXa-0Bviph4FcJgBcORy2N5_YZ10nutn9G3mdjaq3-gOA/viewform?usp=header"> Google Form </a> and select "Speaker for Virtual / Speaker for In-Person Event" as one of the options. 
 
 
-
 Upcoming Event(s)
+---------------------
+{% include chapter_events.html group=page.meetup-group %}
+<br />
+
+<b>Date & Time:</b> 2025-04-17 @ 6:30PM Central <br/>
+<b>Topic: </b> Application Security & Craft Beer <br/>
+<b>Location: </b> Hangar 2 by Tangled Roots Brewing Company // Glenview, IL <br/>
+<b>Organizers: </b> OWASP Chicago, Chicagoland Cybersecurity Exchange, Mobb (https://mobb.ai) <br/>
+<b>Registration Link: </b> <a href="https://www.meetup.com/chicagoland-cybersecurity-exchange/events/307036732"> Click Here </a> <br/>
+
+<br/><br/>
+
+Past Event(s)
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 <br />

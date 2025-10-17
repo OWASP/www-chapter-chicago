@@ -1,0 +1,30 @@
+community:
+  - name: chapter-chicago
+    platform: slack
+    url: https://owasp.slack.com/archives/C04T2BMHC
+    description: For people from OWASP Chicago to chat and plan.
+leaders:
+  - name: Anatoly Bodner - Email
+    email: anatoly.bodner@owasp.org
+    github: anatolybodner
+  - name: Matt Speakman - Email
+    email: matt.speakman@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Illinois
+  city: Chicago
+  postal_code: '60062'
+  latitude: 18.3205864
+  longitude: -64.8747543
+meetup_group: OWASP-Chicago-Chapter
+name: OWASP Chicago
+repositories:
+  - name: www-chapter-chicago
+    url: https://github.com/OWASP/www-chapter-chicago
+    description: OWASP Foundation Web Repository
+tags:
+  - custom-tag-1
+  - custom-tag-2
+  - custom-tag-3
+website: https://owasp.org/www-chapter-chicago
